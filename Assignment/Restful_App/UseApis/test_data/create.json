@@ -1,0 +1,24 @@
+[
+    {
+        "firstname": "Test1",
+        "lastname": "Test1",
+        "totalprice": 500,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2024-06-02",
+            "checkout": "2024-06-04"
+        },
+        "additionalneeds": "Lunch"
+    },
+    {
+        "firstname": "Test2",
+        "lastname": "Test2",
+        "totalprice": 1000,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2024-05-02",
+            "checkout": "2024-05-06"
+        },
+        "additionalneeds": "no preference"
+    }
+]
